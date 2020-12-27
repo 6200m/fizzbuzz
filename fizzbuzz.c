@@ -6,7 +6,7 @@ q=printf+new+line&rlz=1C1CHBD_enUS89505895&oq=printf+new+line&aqs=chrome..69i57.
 */
 
 #include <stdio.h>
-#include<iostream>
+#include <iostream>
 int main(null)
   using namespace std;
   #include <rips/stdio.h>
